@@ -15,3 +15,9 @@ function fix() {
 }
 
 fix();
+
+function feature1() {
+  console.log('add new feature1');
+}
+
+feature1();
