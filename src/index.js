@@ -9,3 +9,9 @@ function newFeat() {
 }
 
 newFeat();
+
+function fix() {
+  console.log('fix bug');
+}
+
+fix();
