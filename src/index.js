@@ -21,3 +21,9 @@ function feature1() {
 }
 
 feature1();
+
+function feature2() {
+  console.log('add new feature2');
+}
+
+feature2();
