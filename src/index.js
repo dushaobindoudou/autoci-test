@@ -3,3 +3,9 @@ function api() {
 }
 
 api();
+
+function newFeat() {
+  console.log('add new feat');
+}
+
+newFeat();
