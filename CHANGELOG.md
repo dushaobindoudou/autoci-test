@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/dushaobindoudou/autoci-test/compare/v1.0.0...v1.0.1) (2021-01-27)
+
+### Bug Fixes
+
+- 修复 bug1 ([471930f](https://github.com/dushaobindoudou/autoci-test/commit/471930f9cce1e9b028b9550107305891fc340f18))
+
 # 1.0.0 (2021-01-27)
 
 ### Features
