@@ -1,3 +1,9 @@
+# [2.1.0](https://github.com/dushaobindoudou/autoci-test/compare/v2.0.0...v2.1.0) (2021-01-28)
+
+### Features
+
+- 修复发布方式 ([abbf007](https://github.com/dushaobindoudou/autoci-test/commit/abbf007b81d5f1d1fbf821851f082d99c08a2728))
+
 # [2.0.0](https://github.com/dushaobindoudou/autoci-test/compare/v1.2.0...v2.0.0) (2021-01-28)
 
 ### Features
