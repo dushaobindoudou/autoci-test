@@ -1,3 +1,9 @@
+# [1.2.0](https://github.com/dushaobindoudou/autoci-test/compare/v1.1.0...v1.2.0) (2021-01-28)
+
+### Features
+
+- 添加 feat3 ([a4f310f](https://github.com/dushaobindoudou/autoci-test/commit/a4f310f35fc3945e0cb6536e896502bf97838e22))
+
 # [1.1.0](https://github.com/dushaobindoudou/autoci-test/compare/v1.0.1...v1.1.0) (2021-01-27)
 
 ### Features
