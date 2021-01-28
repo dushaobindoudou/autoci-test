@@ -12,7 +12,7 @@
     "build:dev": "cross-env NODE_ENV=development RELEASE=test webpack --mode development --progress --color",
     "build:pre": "cross-env NODE_ENV=production RELEASE=pre webpack --mode production --progress --color",
     "release:dry-run": "semantic-release --dry-run",
-    "release": "semantic-release",
+    "release": "npm run build && semantic-release",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
