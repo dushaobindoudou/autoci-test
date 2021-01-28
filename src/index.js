@@ -27,3 +27,9 @@ function feature2() {
 }
 
 feature2();
+
+function feature3() {
+  console.log('add new feature3');
+}
+
+feature3();
