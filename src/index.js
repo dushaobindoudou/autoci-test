@@ -33,3 +33,9 @@ function feature3() {
 }
 
 feature3();
+
+function bcFeat() {
+  console.log('add new feature bc');
+}
+
+bcFeat();
