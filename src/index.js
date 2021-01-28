@@ -14,7 +14,12 @@ function fix() {
   console.log('fix bug');
 }
 
+function fix1() {
+  console.log('fix bug');
+}
+
 fix();
+fix1();
 
 function feature1() {
   console.log('add new feature1');
