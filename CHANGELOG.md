@@ -1,3 +1,13 @@
+# [2.0.0](https://github.com/dushaobindoudou/autoci-test/compare/v1.2.0...v2.0.0) (2021-01-28)
+
+### Features
+
+- 添加不兼容更新 ([c0bd730](https://github.com/dushaobindoudou/autoci-test/commit/c0bd730d15cfe7bdcfefc1fcc453ee458280461b))
+
+### BREAKING CHANGES
+
+- update feat
+
 # [1.2.0](https://github.com/dushaobindoudou/autoci-test/compare/v1.1.0...v1.2.0) (2021-01-28)
 
 ### Features
